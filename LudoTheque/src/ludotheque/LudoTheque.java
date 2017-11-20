@@ -37,7 +37,4 @@ public class LudoTheque extends Application {
         Application.launch(args);
     }
 
-   
-
-
 }
